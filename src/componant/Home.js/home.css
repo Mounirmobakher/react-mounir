@@ -1,0 +1,69 @@
+.numbers{
+    background-color:#8a7965;
+    margin: 0;
+    padding: 25px 0;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.numbers .row{
+    margin: 10px 0;
+}
+.numbers h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.numbers h6{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pride{
+    background-color:#fff;
+    margin: 0;
+    padding: 25px 0;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.pride img{
+width: 100%;
+border-radius: 25px;
+}
+.pride h2{
+    width: 80%;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #723a07;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+.pride p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+
+}
+.pride button{
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    background-color: #723a07;
+    border: 1px solid #723a07;
+}
+.pride button:hover a{
+    color: #723a07;
+
+}
+.pride button:hover{
+    background-color: #fff;
+}
+.pride button a{
+    color: #fff;
+    text-decoration: none !important;
+}

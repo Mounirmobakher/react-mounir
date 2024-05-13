@@ -1,0 +1,51 @@
+header{
+    background: url(./breakfast_dish_drink_145820_1280x720.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow: hidden;
+    padding: 25px 0;
+}
+header.row{
+    margin: 50px 0;
+}
+header h2{
+color: #f5eef0;
+font-size: 50px;
+line-height: 60px;
+font-weight: bold;
+width: 80%;
+font-family: Arial, Helvetica, sans-serif;
+}
+header p{
+    color: #dbd3d3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px 0;
+}
+header button{
+    color: #fff;
+    background-color: #723a07;
+    border:1px solid #723a07;
+    margin: 20px 10px 20px 0px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+header button:last-of-type{
+    background-color: #fff;
+    color: #000;
+}
+header button:hover{
+    transition: .2s ease-in-out;
+}
+header button:first-of-type:hover{
+    background-color: #fff;
+    color: #723a07;
+}
+header button:last-of-type:hover{
+    background-color: #723a07;
+    color: #fff;
+}
